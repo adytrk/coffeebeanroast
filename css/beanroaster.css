@@ -53,6 +53,14 @@ footer {
 	text-align: center
 }
 
+#eighty {
+   width: 80%
+}
+
+#twenty-left {
+   width: 20%
+}
+
 #uploadImage{
     float:left
 }
@@ -99,4 +107,9 @@ footer {
     left: 495px;
     top: 177px;
     z-index: 0;
+}
+
+#Comments {
+   width:622px;
+   align="center"
 }
